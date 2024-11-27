@@ -45,7 +45,7 @@ if (!isset($_SESSION['user_id'])) {
     <section class="hero">
         <div class="hero-des">
             <div>
-                <h1 class="hero-heading">ENJOY YOUR HOLIDAYS</h1>
+                <h1 class="hero-heading">DO ENJOY YOUR HOLIDAYS</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis voluptatem eligendi vel assumenda atque et, quasi suscipit optio pariatur asperiores iusto ipsum odio veniam ullam nihil nulla architecto est!</p>
             </div>
         </div>
