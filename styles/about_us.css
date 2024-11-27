@@ -1,0 +1,92 @@
+.about-hero {
+  background: url("../images/about_us_hero.jpg") center/cover no-repeat;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+}
+.about-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+.about-hero p {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.our-story {
+  display: flex;
+  padding: 2rem 1.5rem;
+  align-items: center;
+}
+.story-content {
+  flex: 1;
+  padding-right: 2rem;
+}
+.story-content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+.story-image img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.why-choose-us {
+  background-color: #f7f8f9;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+.why-choose-us h2 {
+  margin-bottom: 1.5rem;
+}
+.features {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+.feature {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.feature i {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  color: #edcb9a;
+}
+.feature h3 {
+  margin-bottom: 0.5rem;
+}
+
+.testimonials {
+  padding: 2rem 1.5rem;
+  background-color: #fff;
+  text-align: center;
+}
+.testimonials h2 {
+  margin-bottom: 2rem;
+}
+.testimonials-container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+.testimonial {
+  max-width: 300px;
+  background-color: #f7f8f9;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.testimonial h3 {
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #222;
+}
